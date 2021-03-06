@@ -1,3 +1,8 @@
 
 * learn-python-with-examples
 Examples while learning Python.
+
+* pytest
+** pytest vs unittest
+*** simple-unittest-example.py
+Simple test written in unit test to demonstrate the benefits of using pytest over unittest.
