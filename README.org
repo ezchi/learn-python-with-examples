@@ -7,6 +7,8 @@ Examples while learning Python.
 *** simple-unittest-example.py
 Simple test written in unit test to demonstrate the benefits of using pytest over unittest.
 
+** First test
+
 ** Fixtures
 *** Managing state and dependencies
 **** When to create fixtures
