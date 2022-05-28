@@ -9,6 +9,11 @@ Simple test written in unit test to demonstrate the benefits of using pytest ove
 
 ** First test
 
+** Assert expected raised exception
+Use the =raises= helper to assert that some code raises an exception.
+
+** Group tests in class
+
 ** Fixtures
 *** Managing state and dependencies
 **** When to create fixtures
